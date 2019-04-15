@@ -9,7 +9,7 @@ What I'm trying to say is there wasn't any great driver to finally take the plun
 
 Anyway, let's get into the practicalities.  After making the decision, and more importantly announcing it to friends and family, I was now committed.  Now came the storm before the calm.  
 
-## Preperation
+## Preparation
 
 * Do you research.  If you are not native to the country you will be going to, read as much as you can about the place.  Knowing the basics of the geography, culture and weather will help you make better decisions. Don't be afraid to ask questions on online forums, there is a wealth of information available, learn from other's mistakes not your own.
 * Flights.  Google Flights and Skyscanner were really useful here.  Worth searching a week before and after your intended departure date to see if there are any price drops.
@@ -35,16 +35,30 @@ Anyway, let's get into the practicalities.  After making the decision, and more 
 
 ## Life on the other side
 
-My first month of travel took me to Borneo, Kuala Lumpar, Cebu, Taiwan and Phuket.  Although this looked great on paper, by the end of it I realised I was passing through places to quickly to appreciate them and needed to slow down.  Some thoughts here in no particular order
+My first month of travel took me to Borneo, Kuala Lumpar, Cebu, Taiwan and Phuket.  Although this looked great on paper, by the end of it I realised I was passing through places too quickly to appreciate them and needed to slow down.  Some thoughts here in no particular order
 
 * Book ahead.  If you know your itinerary this will give you a wider choice of accomocation for a better price.  It will also free you of the task when you are at your location.  It can be very frustrating to be forced to give up a morning/evening in a new exciting place scanning the accomocation booking sites for your next lodgings.
-* Consider where you will work from.  For me these options tended to boil down to
-  * My accomodation.
-    * Pros; no commute, cooking is an option if local food options are poor or over-priced
-    * Cons; you're working in the place you sleep, isolated
-  * Coffeeshops/restaurants
-    * Pros; a happy-medium between working from your room and a co-working space.  Low cost.
-    * Cons; can have dodgy WiFi, can be noisy, some places won't take kindly to customers sitting their for hours and will want you drink up and leave.  This is rarely said, but the body language is unmissable.
-  * Co-working spaces.
-    * Pros.  Solid internet connection/WiFi, no anxiety about overstaying your welcome, less disturbance than a coffee shop.  A chance to communicate with similar individuals.  Feels more like an office (this could either be a pro or a con dependending on your feelings)
-    * Cons.  Cost, commute.
+
+### Location, location, location
+
+Consider where you will work from.  For me these options tended to boil down to
+* My accomodation.
+  * Pros. No commute, cooking is an option if local food options are poor or over-priced
+  * Cons. You're working in the place you sleep, isolated
+* Coffeeshops/restaurants
+  * Pros. A happy-medium between working from your room and a co-working space.  Low cost.
+  * Cons. Potentially dodgy WiFi, can be noisy, some places won't take kindly to customers sitting their for hours and will want you drink up and leave.  This is rarely said, but the body language is unmistakeable.
+* Co-working spaces.
+  * Pros.  Solid internet connection/WiFi, no anxiety about overstaying your welcome, less disturbance than a coffee shop.  A chance to communicate with similar individuals.  Feels more like an office (this could either be a pro or a con dependending on your feelings).  Better security.
+  * Cons.  Cost, commute.
+
+I ended up using a combination of the above.  Sometimes I'd work the morning in a coffee shop, grab lunch out and then return to work the afternoon from my AitBnb.  Othertimes I'd join a co-working space for a week or so and work out of there.  Give it a try and see what works for you.
+
+### It's on you
+
+Being a digital nomad is great because it gives you great freedom over your circumstances, however as we all know [freedom isn't free](https://youtu.be/tzW2ybYFboQ).  One of the big wake up calls of this endevaour was to realise how much my life was on auto-pilot back in London.  I barely had to think about anything.  Acommodation was sorted, food shopping had become an unconcious operation, social events just bubbled up from friends with little to any effort from me.  When I hit the tarmac in Kuala Lumpar, it quickly became apparent that was not a holiday, it was survival.  Suddenly I was faced with a torrent of questions that need answers.  Some examples:
+
+* Where are you sleeping tonight?
+* Where are you going to be next week?  Where are you staying?  What's your budget?
+* Have you booked your flight to the next destination?  Ok, great.  How about the outward flight?  Most airlines won't let you board a flight unless you have an outward flight.  There goes the "yah cool man, let's just play it by ear" approach, at least to some extent
+* Have you checked the visa and immunisations required for the next country? No, of course you haven't, better do that now
